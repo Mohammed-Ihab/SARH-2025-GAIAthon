@@ -40,7 +40,7 @@ A **Smart IoT-Driven Environmental Recovery Unit** that:
 
 ### 🌬️ Air Pollution Recovery System
 - Filters exhaust air from factories.
-- Monitors air quality using sensors before channeling it into greenhouses.
+- Monitors air quality using sensors inside greenhouses after filtering.
 
 ### 💧 Water Pollution Recovery System
 - Filters wastewater through a multi-stage system.
