@@ -116,9 +116,9 @@ Full breakdown available in [`/docs/BOM.pdf`](./docs/BOM.pdf)
 ## 📁 Repository Structure
 
 ```bash
-SARH-PharaonicMinds/
+SARH-2025-GAIAthon/
 ├── code/               # Source code for ESP32 and cloud integration
 ├── hardware/           # Circuit diagrams, schematics
-├── media/              # Images and visuals of the project
+├── img/              # Images and visuals of the project
 ├── docs/               # Presentation, reports, and BOM
 └── README.md
