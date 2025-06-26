@@ -119,6 +119,5 @@ Find all dashboard and prototype images in the [`/img`](/img) folder.
 SARH-2025-GAIAthon/
 ├── code/               # Source code for ESP32 and cloud integration
 ├── hardware/           # Circuit diagrams, schematics
-├── img/              # Images and visuals of the project
-├── docs/               # Presentation, reports, and BOM
+├── img/                # Images and visuals of the project
 └── README.md
