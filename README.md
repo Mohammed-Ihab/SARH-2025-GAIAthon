@@ -6,7 +6,7 @@
 
 **Repository for SARH – a GAIAthon 2025 project by Team Pharaonic Minds.**
 
-## 🚀 Overview
+## Overview
 
 **SARH (Sustainable Agriculture from Recovered Harm)** is a smart IoT-powered solution that tackles industrial air and water pollution in Egypt by transforming environmental waste into agricultural resources.
 
@@ -14,7 +14,7 @@ Through a dual-system approach—**air purification** and **water filtration**�
 
 ---
 
-## 👥 Team Pharaonic Minds
+## Team Pharaonic Minds
 
 - **Mohammed Ihab** – Team Leader  
 - **Bassam Sayed** – Member  
@@ -24,7 +24,7 @@ Through a dual-system approach—**air purification** and **water filtration**�
 
 ---
 
-## 🧠 Problem Statement
+## Problem Statement
 
 Egypt and many african countries faces critical environmental degradation due to factory emissions and polluted wastewater, resulting in:
 
@@ -34,22 +34,22 @@ Egypt and many african countries faces critical environmental degradation due to
 
 ---
 
-## 🌱 Our Solution: SARH
+## Our Solution: SARH
 
 A **Smart IoT-Driven Environmental Recovery Unit** that:
 
-### 🌬️ Air Pollution Recovery System
+### Air Pollution Recovery System
 - Filters exhaust air from factories.
 - Monitors air quality using sensors inside greenhouses after filtering.
 
-### 💧 Water Pollution Recovery System
+### Water Pollution Recovery System
 - Filters wastewater through a multi-stage system.
 - Monitors water quality, turbidity, pH, and TDS.
 - Uses soil moisture feedback to control irrigation automatically.
 
 ---
 
-## 🔧 Technologies & Components Used
+## Technologies & Components Used
 
 | Category | Component | Description |
 |---------|-----------|-------------|
@@ -62,7 +62,7 @@ A **Smart IoT-Driven Environmental Recovery Unit** that:
 
 ---
 
-## 📐 Architecture Overview
+## Architecture Overview
 
 The system is modular, consisting of:
 - Factory exhaust interception and filtration unit
@@ -73,7 +73,7 @@ The system is modular, consisting of:
 
 ---
 
-## 🧪 Development Stages
+## Development Stages
 
 1. **Research & Material Selection**
 2. **System Simulation & Design**
@@ -83,7 +83,7 @@ The system is modular, consisting of:
 
 ---
 
-## 🌍 Impact
+## Impact
 
 - Transforms industrial waste into agricultural input
 - Reduces health risks near factories
@@ -92,7 +92,7 @@ The system is modular, consisting of:
 
 ---
 
-## 💡 Challenges & Mitigation
+## Challenges & Mitigation
 
 | Challenge | Solution |
 |----------|----------|
@@ -101,19 +101,19 @@ The system is modular, consisting of:
 
 ---
 
-## 🖼️ Media
+## Media
 
 Find all related diagrams, system architecture, and prototype images in the [`/media`](/media) folder.
 
 ---
 
-## 🧾 Bill of Materials (BOM)
+## Bill of Materials (BOM)
 
 Full breakdown available in [`/docs/BOM.pdf`](./docs/BOM.pdf)
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```bash
 SARH-2025-GAIAthon/
