@@ -54,10 +54,10 @@ A **Smart IoT-Driven Environmental Recovery Unit** that:
 | Category | Component | Description |
 |---------|-----------|-------------|
 | Microcontroller | ESP32 | Wi-Fi-enabled controller for cloud-based monitoring |
-| Air Monitoring | MQ-135, MQ-7 | Measures toxic gases and carbon monoxide |
+| Air Monitoring | MQ-135, MQ-7 | Measures carbon dioxide and carbon monoxide |
 | Water Monitoring | TDS, pH, Turbidity sensors | Ensures water quality before irrigation |
-| Soil Monitoring | Soil Moisture Sensor, DHT11 | Measures soil conditions and greenhouse climate |
-| Actuators | Water Pump, Solenoid Valves, Air Fan | Control fluid and air movement |
+| Soil Monitoring | Soil Moisture Sensor, DHT11 | Measures soil conditions and greenhouse air humidity |
+| Actuators | Water Pump and Air Fan | Control fluid and air movement |
 | Filtration | Water and Air Filters | Physically remove harmful particles |
 
 ---
