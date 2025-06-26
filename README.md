@@ -26,7 +26,7 @@ Through a dual-system approach—**air purification** and **water filtration**�
 
 ## 🧠 Problem Statement
 
-Egypt faces critical environmental degradation due to factory emissions and polluted wastewater, resulting in:
+Egypt and many african countries faces critical environmental degradation due to factory emissions and polluted wastewater, resulting in:
 
 - Toxic air unsuitable for humans or agriculture.
 - Contaminated Nile water going to waste.
