@@ -107,12 +107,6 @@ Find all related diagrams, system architecture, and prototype images in the [`/m
 
 ---
 
-## Bill of Materials (BOM)
-
-Full breakdown available in [`/docs/BOM.pdf`](./docs/BOM.pdf)
-
----
-
 ## Repository Structure
 
 ```bash
