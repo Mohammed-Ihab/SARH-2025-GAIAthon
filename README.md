@@ -103,11 +103,17 @@ The system is modular, consisting of:
 
 ## Images
 
+- **Dashboard in Dark Mode**
+
 ![Dashboard in Dark Mode](img/Dark_Mode_Dashboard_1.png)
+
+- **Dashboard in Light Mode**
 
 ![Dashboard in Light Mode](img/Light_Mode_Dashboard_1.png)
 
-![Dashboard in Dark Mode](img/Prototype.jpg)
+- **Prototype**
+
+![Prototype](img/Prototype.jpg)
 
 Find all dashboard and prototype images in the [`/img`](/img) folder.
 
