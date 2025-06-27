@@ -69,7 +69,8 @@ The system is modular, consisting of:
 - Wastewater diversion, filtration, and reuse module
 - A smart greenhouse with IoT feedback systems
 
-> Detailed hardware schematics are available in the [`/hardware`](/hardware) directory. For more details and editing: https://app.cirkitdesigner.com/project/c85415f7-10f5-44d9-99da-0cf32aef3e6e
+> Detailed hardware schematics are available in the [`/hardware`](/hardware) directory.
+> For more details and editing: https://app.cirkitdesigner.com/project/c85415f7-10f5-44d9-99da-0cf32aef3e6e
 
 ---
 
