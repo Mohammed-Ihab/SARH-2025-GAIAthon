@@ -14,6 +14,13 @@ Through a dual-system approach—**air purification** and **water filtration**�
 
 ---
 
+## 🎥 Project Video
+
+[![Watch on YouTube](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://youtu.be/rqyxlME8HkE)
+
+---
+
+
 ## Team Pharaonic Minds
 
 - **Mohammed Ihab** – Team Leader  
