@@ -115,7 +115,7 @@ The system is modular, consisting of:
 
 - **Prototype**
 
-![Prototype](img/Prototype2.jpg)
+![Prototype](img/Prototype2.JPG)
 
 Find all dashboard and prototype images in the [`/img`](/img) folder.
 
