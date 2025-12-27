@@ -123,7 +123,7 @@ Find all dashboard and prototype images in the [`/img`](/img) folder.
 
 ## Project Video
 
-[![Watch on YouTube](https://img.youtube.com/vi/rqyxlME8HkE/0.jpg)](https://youtu.be/rqyxlME8HkE)
+[![Watch on YouTube](https://img.youtube.com/vi/VwMgjME7O_M/0.jpg)](https://youtu.be/VwMgjME7O_M)
 
 ---
 
